@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "python-info-action",
+  "versions": [
+    {
+      "commit": "9b0e75d126c6dfb1f0f8703182ebebbdf69e5408",
+      "parsed_at": "2026-10-21T21:46:21.892454+00:00",
+      "filetree": "filetree/9b0e75d126c6dfb1f0f8703182ebebbdf69e5408.nq.gz",
+      "blobs": [
+        "blob/ab43c2e330b61b06f958328ba97807d5ee13db77.nq.gz",
+        "blob/54e8257db2f9a7c2c964e2ae98e065f8e1c1f270.nq.gz",
+        "blob/25d8d3457e71a7e857653704db3b9b666805e43e.nq.gz",
+        "blob/5c327c8f4fd489c3fa6d395665459bea1cb3fc2d.nq.gz",
+        "blob/b016e45632c37ae2e1644d3e6c370a29a7ba41d6.nq.gz",
+        "blob/b413b1b5af2a401779e7235b85493c0ed2b71a24.nq.gz",
+        "blob/487cdc03c5bfd497bbbe3e94e1ef6a3bee18552a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
